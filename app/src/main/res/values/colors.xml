@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="default_color">#FFFAFA</color>
+    <color name="grey">#808080</color>
+    <color name="rippe_bg">#FAFAFA</color>
+    <color name="rippe_bg2">#E0E0E0</color>
+    <!--涟漪颜色-->
+    <color name="color_ripple">#82CCCCCC</color>
+    <color name="color_bg">#20CCCCCC</color>
+    <color name="bg_test">#72BFD7</color>
+    <color name="black">#000000</color>
+    <color name="login_line">#E6E6E6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="date_color">#8D8D8D</color>
+</resources>

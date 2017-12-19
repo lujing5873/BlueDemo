@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BlueDemo</string>
+    <string name="blue_serch">搜索</string>
+    <string name="blue_unbind">可用设备</string>
+    <string name="blue_bind">已配对的设备</string>
+    <string name="blue_devicename">设备名称</string>
+    <string name="blue_open">开启蓝牙</string>
+    <string name="blue_binding">正在配对...</string>
+    <string name="blue_title">打印机设置</string>
+    <string name="print_connect">连接打印机成功</string>
+</resources>
